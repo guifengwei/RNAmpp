@@ -31,5 +31,5 @@ RNA metaProfile plot (RNAmpp), the pipeline to generate the distribution on tran
  
  ##### Citation
  
- Please contact me at this monment.
+ Please contact me at this momment.
   
