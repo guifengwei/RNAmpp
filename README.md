@@ -17,7 +17,7 @@ RNA metaProfile plot (RNAmpp), the pipeline to generate the distribution on tran
   This step usually takes less than 100 seconds, tested in GENCODE and UCSC annoated gtf files.
   
  2. Calculate the relative distribution and generate plots.
-    This step requires two files as input, (1) query_bed must be a standard 6-column bed-format file (2) genebed file which is the output from Step1, either the randomTranscript or MaxORF_LongestNcRNA, also can be userd-defined Transcript.
+    This step requires two files as input, (1) query_bed must be a standard 6-column bed-format file (2) genebed file which is the output from Step1, either the randomTranscript or MaxORF_LongestNcRNA, also can be user-defined Transcript.
     ```
     sh RNAmpp_stat.sh query.bed MaxORF_LongestNcRNA.genebed
     ```
@@ -29,9 +29,7 @@ RNA metaProfile plot (RNAmpp), the pipeline to generate the distribution on tran
  
  
  
+ ##### Citation
  
- 
- 
- 
- 
+ Please contact me at this monment.
   
