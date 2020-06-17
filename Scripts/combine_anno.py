@@ -20,13 +20,13 @@ def main():
         if len(v) == 1:
             print("{0}\t{1}".format(k,v[0]))
         else:
-            if "protein_coding:exon" in v:
+            if "protein_coding\texon" in v:
                 print ("{0}\t{1}".format(k, "protein_coding\texon") )
-            elif "ncRNA:exon" in v:
+            elif "ncRNA\texon" in v:
                 print ("{0}\t{1}".format(k, "ncRNA\texon") )
-            elif "protein_coding:intron" in v:
+            elif "protein_coding\tintron" in v:
                 print ("{0}\t{1}".format(k, "protein_coding\tintron") )
-            elif "ncRNA:intron" in v:
+            elif "ncRNA\tintron" in v:
                 print ("{0}\t{1}".format(k, "ncRNA\tintron") )
             else:
                 print ("{0}\t{1}".format(k, "NA\tNA") )
