@@ -23,7 +23,7 @@ RNA metaProfile plot (RNAmpp), the pipeline to generate the distribution on tran
     ```
  
  ### Result
- 
+ You can modify the result by Adoble Illustrator a bit, to arrange them into a row, and also adjust the color you like. Basically, the output is two PDFs.
  ![image](https://github.com/guifengwei/RNAmpp/blob/master/RNAmpp.jpg)
  
  ### Contact
