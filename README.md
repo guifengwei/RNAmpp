@@ -24,8 +24,7 @@ RNA metaProfile plot (RNAmpp), the pipeline to generate the distribution on tran
  
  ### Result
  
- 
- 
+ ![image](https://github.com/guifengwei/RNAmpp/blob/master/RNAmpp.tif)
  
  ### Contact
  Guifeng Wei, guifengwei@gmail.com
