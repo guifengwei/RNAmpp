@@ -33,5 +33,5 @@ RNA metaProfile plot (RNAmpp), the pipeline to generate the distribution on tran
  
  ### Citation
  
- Please contact me at this momment.
+ Wei G, Almeida M, Pintacuda G, Coker H, Bowness JS, Ule J, Brockdorff N. Acute depletion of METTL3 implicates N6-methyladenosine in alternative intron/exon inclusion in the nascent transcriptome. Genome Res. 2021 Jun 15;. doi: 10.1101/gr.271635.120. PubMed PMID: 34131006.
   
